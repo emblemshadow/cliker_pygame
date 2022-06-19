@@ -8,7 +8,7 @@ clock = pygame.time.Clock()
 
 # Variables
 FPS = 60
-score = 10
+score = 100
 score_fix = 1 #évite le décallage du score dû aux décimales
 pps = 0 #points par seconde
 ppc = 0 #points par click
